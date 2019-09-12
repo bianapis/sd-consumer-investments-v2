@@ -1,0 +1,41 @@
+{
+  "orderInitiationRetrieveActionResponse" : "orderInitiationRetrieveActionResponse",
+  "orderInitiationInstanceAnalysis" : {
+    "orderInitiationInstanceAnalysisReport" : {},
+    "orderInitiationInstanceAnalysisReportType" : "orderInitiationInstanceAnalysisReportType",
+    "orderInitiationInstanceAnalysisParameters" : "orderInitiationInstanceAnalysisParameters",
+    "orderInitiationInstanceAnalysisRecord" : {}
+  },
+  "consumerSecuritiesOrderTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "713494",
+    "correspondenceInstanceReference" : "708629",
+    "customerReference" : "742359",
+    "consumerSecuritiesOrderInstructionType" : "consumerSecuritiesOrderInstructionType",
+    "investmentPortfolioInstanceReference" : "700440",
+    "consumerSecuritiesOrderProcessingInstruction" : "consumerSecuritiesOrderProcessingInstruction",
+    "documentDirectoryEntryInstanceReference" : "749605",
+    "consumerSecuritiesOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "736872",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "727774",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    }
+  },
+  "orderInitiationInstanceRecord" : {
+    "consumerSecuritiesOrderInitiationTaskResult" : "consumerSecuritiesOrderInitiationTaskResult",
+    "consumerSecuritiesOrderTransactionInstanceReference" : "724766",
+    "consumerSecuritiesOrderTransactionInstanceStatus" : "consumerSecuritiesOrderTransactionInstanceStatus"
+  },
+  "orderInitiationRetrieveActionTaskReference" : "OIRATR776099",
+  "orderInitiationInstanceReport" : {
+    "orderInitiationInstanceReportParameters" : "orderInitiationInstanceReportParameters",
+    "orderInitiationInstanceReportRecord" : {},
+    "orderInitiationInstanceReport" : {},
+    "orderInitiationInstanceReportType" : "orderInitiationInstanceReportType"
+  },
+  "orderInitiationRetrieveActionTaskRecord" : {}
+}

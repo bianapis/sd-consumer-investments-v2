@@ -1,0 +1,24 @@
+{
+  "consumerSecuritiesOrderTransactionUpdateActionTaskReference" : "CSOTUATR776439",
+  "consumerSecuritiesOrderTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "744201",
+    "correspondenceInstanceReference" : "791747",
+    "customerReference" : "760806",
+    "consumerSecuritiesOrderInstructionType" : "consumerSecuritiesOrderInstructionType",
+    "investmentPortfolioInstanceReference" : "737639",
+    "consumerSecuritiesOrderProcessingInstruction" : "consumerSecuritiesOrderProcessingInstruction",
+    "documentDirectoryEntryInstanceReference" : "719302",
+    "consumerSecuritiesOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "794232",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "736620",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    }
+  },
+  "updateResponseRecord" : {},
+  "consumerSecuritiesOrderTransactionUpdateActionTaskRecord" : {}
+}

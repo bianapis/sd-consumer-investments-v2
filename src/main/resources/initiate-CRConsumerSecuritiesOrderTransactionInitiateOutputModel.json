@@ -1,0 +1,22 @@
+{
+  "consumerSecuritiesOrderTransactionInstanceRecord" : {
+    "correspondenceInstanceReference" : "731821",
+    "consumerSecuritiesOrderInstructionType" : "consumerSecuritiesOrderInstructionType",
+    "consumerSecuritiesOrderProcessingInstruction" : "consumerSecuritiesOrderProcessingInstruction",
+    "documentDirectoryEntryInstanceReference" : "736017",
+    "consumerSecuritiesOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "713511",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "719646",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    }
+  },
+  "consumerSecuritiesOrderTransactionInitiateActionRecord" : {},
+  "consumerSecuritiesOrderTransactionInitiateActionReference" : "CSOTIAR792516",
+  "consumerSecuritiesOrderTransactionInstanceReference" : "CSOTIR794160",
+  "consumerSecuritiesOrderTransactionInstanceStatus" : "consumerSecuritiesOrderTransactionInstanceStatus"
+}

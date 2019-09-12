@@ -1,0 +1,39 @@
+{
+  "quoteRetrieveActionTaskReference" : "QRATR782532",
+  "consumerSecuritiesOrderTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "791696",
+    "correspondenceInstanceReference" : "790446",
+    "customerReference" : "712189",
+    "consumerSecuritiesOrderInstructionType" : "consumerSecuritiesOrderInstructionType",
+    "investmentPortfolioInstanceReference" : "794627",
+    "consumerSecuritiesOrderProcessingInstruction" : "consumerSecuritiesOrderProcessingInstruction",
+    "documentDirectoryEntryInstanceReference" : "706345",
+    "consumerSecuritiesOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "779651",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "794985",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    }
+  },
+  "quoteInstanceReport" : {
+    "quoteInstanceReportParameters" : "quoteInstanceReportParameters",
+    "quoteInstanceReport" : {},
+    "quoteInstanceReportRecord" : {},
+    "quoteInstanceReportType" : "quoteInstanceReportType"
+  },
+  "quoteRetrieveActionResponse" : "quoteRetrieveActionResponse",
+  "quoteRetrieveActionTaskRecord" : {},
+  "quoteInstanceAnalysis" : {
+    "quoteInstanceAnalysisReportType" : "quoteInstanceAnalysisReportType",
+    "quoteInstanceAnalysisReport" : {},
+    "quoteInstanceAnalysisParameters" : "quoteInstanceAnalysisParameters",
+    "quoteInstanceAnalysisRecord" : {}
+  },
+  "quoteInstanceRecord" : {
+    "securitiesPrice" : "securitiesPrice"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "consumerSecuritiesOrderTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "753940",
+    "correspondenceInstanceReference" : "795966",
+    "customerReference" : "741401",
+    "consumerSecuritiesOrderInstructionType" : "consumerSecuritiesOrderInstructionType",
+    "investmentPortfolioInstanceReference" : "756802",
+    "consumerSecuritiesOrderProcessingInstruction" : "consumerSecuritiesOrderProcessingInstruction",
+    "documentDirectoryEntryInstanceReference" : "776231",
+    "consumerSecuritiesOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "778672",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "768767",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    }
+  },
+  "consumerSecuritiesOrderTransactionRetrieveActionTaskReference" : "CSOTRATR714464",
+  "consumerSecuritiesOrderTransactionInstanceAnalysis" : {
+    "consumerSecuritiesOrderTransactionInstanceAnalysisData" : "consumerSecuritiesOrderTransactionInstanceAnalysisData",
+    "consumerSecuritiesOrderTransactionInstanceAnalysisReport" : {},
+    "consumerSecuritiesOrderTransactionInstanceAnalysisReportType" : "consumerSecuritiesOrderTransactionInstanceAnalysisReportType"
+  },
+  "consumerSecuritiesOrderTransactionRetrieveActionResponse" : "consumerSecuritiesOrderTransactionRetrieveActionResponse",
+  "consumerSecuritiesOrderTransactionRetrieveActionTaskRecord" : {},
+  "consumerSecuritiesOrderTransactionInstanceReportRecord" : {
+    "consumerSecuritiesOrderTransactionInstanceReportData" : "consumerSecuritiesOrderTransactionInstanceReportData",
+    "consumerSecuritiesOrderTransactionInstanceReport" : {},
+    "consumerSecuritiesOrderTransactionInstanceReportType" : "consumerSecuritiesOrderTransactionInstanceReportType"
+  }
+}

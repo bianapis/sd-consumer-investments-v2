@@ -1,0 +1,41 @@
+{
+  "complianceInstanceAnalysis" : {
+    "complianceInstanceAnalysisRecord" : {},
+    "complianceInstanceAnalysisReportType" : "complianceInstanceAnalysisReportType",
+    "complianceInstanceAnalysisReport" : {},
+    "complianceInstanceAnalysisParameters" : "complianceInstanceAnalysisParameters"
+  },
+  "consumerSecuritiesOrderTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "743053",
+    "correspondenceInstanceReference" : "706312",
+    "customerReference" : "730978",
+    "consumerSecuritiesOrderInstructionType" : "consumerSecuritiesOrderInstructionType",
+    "investmentPortfolioInstanceReference" : "760892",
+    "consumerSecuritiesOrderProcessingInstruction" : "consumerSecuritiesOrderProcessingInstruction",
+    "documentDirectoryEntryInstanceReference" : "797954",
+    "consumerSecuritiesOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "744220",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "750272",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    }
+  },
+  "complianceRetrieveActionResponse" : "complianceRetrieveActionResponse",
+  "complianceInstanceRecord" : {
+    "consumerSecuritiesOrderTransactionComplianceTaskResult" : "consumerSecuritiesOrderTransactionComplianceTaskResult",
+    "consumerSecuritiesOrderTransactionComplianceCheckResult" : "consumerSecuritiesOrderTransactionComplianceCheckResult",
+    "consumerSecuritiesOrderTransactionComplianceCheckType" : "consumerSecuritiesOrderTransactionComplianceCheckType"
+  },
+  "complianceRetrieveActionTaskRecord" : {},
+  "complianceInstanceReport" : {
+    "complianceInstanceReportParameters" : "complianceInstanceReportParameters",
+    "complianceInstanceReportType" : "complianceInstanceReportType",
+    "complianceInstanceReport" : {},
+    "complianceInstanceReportRecord" : {}
+  },
+  "complianceRetrieveActionTaskReference" : "CRATR767785"
+}
